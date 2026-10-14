@@ -2,6 +2,17 @@
 
 [English](README.md) | 简体中文
 
+<p align="center">
+  <a href="https://www.modelscope.ai/models/GroundingPI/GroundAnything"><img src="docs/assets/modelscope-dlm.svg" alt="ModelScope · DLM" /></a>
+  <a href="https://www.modelscope.ai/models/GroundingPI/GroundAnything-VLM"><img src="docs/assets/modelscope-vlm.svg" alt="ModelScope · VLM" /></a>
+  <a href="https://huggingface.co/papers/2609.39600"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fpapers%2F2609.39600&amp;query=%24.upvotes&amp;label=HF+paper&amp;suffix=+upvotes&amp;logo=huggingface&amp;logoColor=FFD21E&amp;color=cb8625&amp;style=flat-square&amp;cacheSeconds=300" alt="HF paper upvotes" /></a>
+</p>
+
+## 📰 新闻
+
+- **2026-10-14：** [GroundAnything](https://www.modelscope.ai/models/GroundingPI/GroundAnything) 和 [GroundAnything-VLM](https://www.modelscope.ai/models/GroundingPI/GroundAnything-VLM) 模型权重已上线 ModelScope。
+- **2026-10-14：** GroundAnything 获得社区的广泛认可，在 [Hugging Face Daily Papers](https://huggingface.co/papers/2609.39600) 获得 **74 次 Upvote**。
+
 ## 快速开始
 
 在仓库根目录执行命令。`requirements.txt` 安装客户端和安装工具所需的依赖，训练、服务与评测的依赖分别放在 `requirements/` 下。如需通过 `environment.yml` 创建 Conda 环境，参见[环境说明](environments/README.md)。

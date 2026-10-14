@@ -13,9 +13,13 @@
   <a href="https://arxiv.org/abs/2609.39600"><img src="https://img.shields.io/badge/%F0%9F%93%98%20Paper-b53f4c?style=flat-square" alt="📘 Paper" /></a>
   <a href="https://huggingface.co/GroundingPI/GroundAnything"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HF%20Model%20%C2%B7%20DLM-cb8625?style=flat-square" alt="🤗 HF Model · DLM" /></a>
   <a href="https://huggingface.co/GroundingPI/GroundAnything-VLM"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HF%20Model%20%C2%B7%20VLM-cb8625?style=flat-square" alt="🤗 HF Model · VLM" /></a>
+  <a href="https://www.modelscope.ai/models/GroundingPI/GroundAnything"><img src="docs/assets/modelscope-dlm.svg" alt="ModelScope · DLM" /></a>
+  <a href="https://www.modelscope.ai/models/GroundingPI/GroundAnything-VLM"><img src="docs/assets/modelscope-vlm.svg" alt="ModelScope · VLM" /></a>
+  <br />
   <a href="https://huggingface.co/spaces/GroundingPI/GroundAnything-VLM"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HF%20Demo-cb8625?style=flat-square" alt="🤗 HF Demo" /></a>
   <a href="https://groundingpi.github.io/groundanything/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-367ab5?style=flat-square" alt="🌐 Project Page" /></a>
   <a href="https://github.com/groundingpi/GroundAnything"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20GitHub-30363d?style=flat-square" alt="💻 GitHub" /></a>
+  <a href="https://huggingface.co/papers/2609.39600"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fpapers%2F2609.39600&amp;query=%24.upvotes&amp;label=HF+paper&amp;suffix=+upvotes&amp;logo=huggingface&amp;logoColor=FFD21E&amp;color=cb8625&amp;style=flat-square&amp;cacheSeconds=300" alt="HF paper upvotes" /></a>
 </p>
 
 <p align="center">
@@ -33,6 +37,8 @@
 
 ## 📰 News
 
+- **2026-10-14:** [GroundAnything](https://www.modelscope.ai/models/GroundingPI/GroundAnything) and [GroundAnything-VLM](https://www.modelscope.ai/models/GroundingPI/GroundAnything-VLM) model weights are now available on ModelScope.
+- **2026-10-14:** GroundAnything received strong community recognition, with **74 upvotes** on [Hugging Face Daily Papers](https://huggingface.co/papers/2609.39600).
 - **2026-10-04:** Released the [project webpage](https://groundingpi.github.io/groundanything/).
 - **2026-10-03:** Released the source code, deployment and batch-annotation guides, and full-suite evaluation workflows.
 - **2026-10-01:** We released the [GroundAnything](https://huggingface.co/GroundingPI/GroundAnything) and [GroundAnything-VLM](https://huggingface.co/GroundingPI/GroundAnything-VLM) model weights on Hugging Face.
